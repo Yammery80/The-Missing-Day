@@ -16,11 +16,14 @@ public class NewMonoBehaviourScript : MonoBehaviour
 
     void Update()
     {
+        // Obtener movimiento
         movementInput.x = Input.GetAxisRaw("Horizontal");
         movementInput.y = Input.GetAxisRaw("Vertical");
 
+        // Normalizar para evitar movimiento más rápido en diagonal
         movementInput = movementInput.normalized;
 
+        // Enviar información al Animator
         animator.SetFloat("Horizontal", movementInput.x);
         animator.SetFloat("Vertical", movementInput.y);
         animator.SetFloat("Speed", movementInput.magnitude);
