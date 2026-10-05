@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 1116df24865f75b469dabcb67403f00c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6554921357604357806
+    second: "Hoja de sprites de chica fot\xF3grafa_0"
+  - first:
+      213: -6877338615960561169
+    second: "Hoja de sprites de chica fot\xF3grafa_1"
+  - first:
+      213: -8246654690521157155
+    second: "Hoja de sprites de chica fot\xF3grafa_2"
+  - first:
+      213: -3509111922291441301
+    second: "Hoja de sprites de chica fot\xF3grafa_3"
+  - first:
+      213: -5963019774256995096
+    second: "Hoja de sprites de chica fot\xF3grafa_4"
+  - first:
+      213: 1996270309516031517
+    second: "Hoja de sprites de chica fot\xF3grafa_5"
+  - first:
+      213: -1678045214728707607
+    second: "Hoja de sprites de chica fot\xF3grafa_6"
+  - first:
+      213: 4038456132587651781
+    second: "Hoja de sprites de chica fot\xF3grafa_7"
+  - first:
+      213: -1756441632778282727
+    second: "Hoja de sprites de chica fot\xF3grafa_8"
+  - first:
+      213: 1070265247675429654
+    second: "Hoja de sprites de chica fot\xF3grafa_9"
+  - first:
+      213: 843056906435021177
+    second: "Hoja de sprites de chica fot\xF3grafa_10"
+  - first:
+      213: 6390373288235331623
+    second: "Hoja de sprites de chica fot\xF3grafa_11"
+  - first:
+      213: -1334477030297547900
+    second: "Hoja de sprites de chica fot\xF3grafa_12"
+  - first:
+      213: 5247229561267813483
+    second: "Hoja de sprites de chica fot\xF3grafa_13"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Hoja de sprites de chica fot\xF3grafa_0"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 531
+        width: 209
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 3}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea601aace32c7fa50800000000000000
+      internalID: 6554921357604357806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de chica fot\xF3grafa_1"
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 526
+        width: 204
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 7, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9189b67f8ce80a0800000000000000
+      internalID: -6877338615960561169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de chica fot\xF3grafa_2"
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 536
+        width: 212
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 4}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd17d2a604ffd8d80800000000000000
+      internalID: -8246654690521157155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de chica fot\xF3grafa_3"
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 550
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b610bba7c412d4fc0800000000000000
+      internalID: -3509111922291441301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de chica fot\xF3grafa_4"
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 536
+        width: 208
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e428c6db191f3da0800000000000000
+      internalID: -5963019774256995096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de chica fot\xF3grafa_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16bc52154d24bb10800000000000000
+      internalID: 1996270309516031517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de chica fot\xF3grafa_6"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 29
+        width: 207
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e12d0394c266b8e0800000000000000
+      internalID: -1678045214728707607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de chica fot\xF3grafa_7"
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 22
+        width: 216
+        height: 475
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c282e7b47a7b0830800000000000000
+      internalID: 4038456132587651781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de chica fot\xF3grafa_8"
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 29
+        width: 215
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9191b8914addf97e0800000000000000
+      internalID: -1756441632778282727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de chica fot\xF3grafa_9"
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 18
+        width: 222
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613b32f72985ade00800000000000000
+      internalID: 1070265247675429654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de chica fot\xF3grafa_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979cf792ac323bb00800000000000000
+      internalID: 843056906435021177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de chica fot\xF3grafa_11"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 305
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7207963e5aa2fa850800000000000000
+      internalID: 6390373288235331623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de chica fot\xF3grafa_12"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 278
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b4238163cfa7de0800000000000000
+      internalID: -1334477030297547900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de chica fot\xF3grafa_13"
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 153
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cfb462c77e1d840800000000000000
+      internalID: 5247229561267813483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9686668302ba33a418358b775f29381c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Hoja de sprites de chica fot\xF3grafa_0": 6554921357604357806
+      "Hoja de sprites de chica fot\xF3grafa_1": -6877338615960561169
+      "Hoja de sprites de chica fot\xF3grafa_10": 843056906435021177
+      "Hoja de sprites de chica fot\xF3grafa_11": 6390373288235331623
+      "Hoja de sprites de chica fot\xF3grafa_12": -1334477030297547900
+      "Hoja de sprites de chica fot\xF3grafa_13": 5247229561267813483
+      "Hoja de sprites de chica fot\xF3grafa_2": -8246654690521157155
+      "Hoja de sprites de chica fot\xF3grafa_3": -3509111922291441301
+      "Hoja de sprites de chica fot\xF3grafa_4": -5963019774256995096
+      "Hoja de sprites de chica fot\xF3grafa_5": 1996270309516031517
+      "Hoja de sprites de chica fot\xF3grafa_6": -1678045214728707607
+      "Hoja de sprites de chica fot\xF3grafa_7": 4038456132587651781
+      "Hoja de sprites de chica fot\xF3grafa_8": -1756441632778282727
+      "Hoja de sprites de chica fot\xF3grafa_9": 1070265247675429654
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
